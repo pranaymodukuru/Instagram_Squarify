@@ -1,7 +1,7 @@
 # Instagram_Squarify
 A small python script to automate adding a blurred background to images to make them instagram compatible.
 
-I frequently edit pictures I take on mobile/camera and edit them in Lightroom on PC and post on instagram. In this process I may sometimes need to use some third party apps to add background-blur etc. This whole process requires me to transfer images multiple times between devices and process them on different devices. So I decided to automate this step using python.  
+I frequently edit pictures I take on mobile/camera in Lightroom on PC and post on instagram. In this process I may sometimes need to use some third party apps to add background-blur etc. This whole process requires me to transfer images multiple times between devices and process them on different devices. So I decided to automate this step using python.  
 
 Usage:
 * Just paste the image files to be squarifed into pictures folder and run 'main.py' to run with default settings.
