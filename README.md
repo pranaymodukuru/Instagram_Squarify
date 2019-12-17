@@ -9,6 +9,8 @@ Example:
     python main.py --blur_strength 100 --backgroung_brightness 1.3
     ```
 
+### Before formatting
 ![picture alt](https://github.com/Pranay-modukuru/Instagram_Squarify/blob/master/pictures/icymountain.jpg "before formatting")
 
+### After formatting
 ![picture alt](https://github.com/Pranay-modukuru/Instagram_Squarify/blob/master/output_files/icymountain.jpg "after formatting")
