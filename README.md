@@ -11,7 +11,7 @@ Example:
     ```
     python main.py --blur_strength 100 --backgroung_brightness 1.3
     ```
-
+All pictures I included in this project are captured by me in Iceland.
 ### Before formatting
 (5333 x 2995)
 ![picture alt](https://github.com/Pranay-modukuru/Instagram_Squarify/blob/master/pictures/icymountain.jpg "before formatting")
