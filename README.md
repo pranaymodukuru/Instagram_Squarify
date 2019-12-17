@@ -8,3 +8,7 @@ Example:
     ```
     python main.py --blur_strength 100 --backgroung_brightness 1.3
     ```
+
+![picture alt](https://github.com/Pranay-modukuru/Instagram_Squarify/blob/master/pictures/icymountain.jpg "before formatting")
+
+![picture alt](https://github.com/Pranay-modukuru/Instagram_Squarify/blob/master/output_files/icymountain.jpg "after formatting")
