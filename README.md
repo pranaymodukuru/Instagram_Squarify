@@ -10,7 +10,9 @@ Example:
     ```
 
 ### Before formatting
+(5333 x 2995)
 ![picture alt](https://github.com/Pranay-modukuru/Instagram_Squarify/blob/master/pictures/icymountain.jpg "before formatting")
 
 ### After formatting
+(1080 x 806)
 ![picture alt](https://github.com/Pranay-modukuru/Instagram_Squarify/blob/master/output_files/icymountain.jpg "after formatting")
