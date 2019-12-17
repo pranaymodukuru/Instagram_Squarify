@@ -1,4 +1,3 @@
-# 1080px wide by 566-1350px high
 import os
 import sys
 import argparse
